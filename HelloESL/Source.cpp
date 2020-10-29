@@ -200,7 +200,7 @@ void text() {
      LINE.notify("รถไฟมาถึงสถานีพระจอมเกล้าแล้ว");
    }*/
     delay(10);
-}
+} 
 void wifiSetup()
 {
     Serial.println();
